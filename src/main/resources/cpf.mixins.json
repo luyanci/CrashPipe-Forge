@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.cpf.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cpf.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "CrashMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
